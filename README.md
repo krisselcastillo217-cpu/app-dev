@@ -1,2 +1,2 @@
-# app-dev
-My first repository
+# My favorite series
+My favorite series is The Summer I Turned Pretty
